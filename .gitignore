@@ -1,0 +1,33 @@
+# Compiled Java classes
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Build directories
+bin/
+out/
+target/
+build/
+
+# IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
